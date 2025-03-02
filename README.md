@@ -23,12 +23,12 @@
 
 
 ## Live Demo
-**Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/basic-portfolio/)
+**Explore the live version here:** [View Live Demo](https://marius-bogdan.com/projects/add-a-product/)
 
 ## Local Setup
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/MIBogdan/basic-portfolio.git
+   git clone https://github.com/MIBogdan/add-a-product.git
    ```
 2. **Open** the `index.html` file in your browser
    *- or use a local development server (like VS Code Live Server) for a smoother development experience.*
